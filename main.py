@@ -106,3 +106,4 @@ def predict(data: FoodWasteRequest):
         "predicted_total_waste_tons": round(prediction_tons, 2),
         "unit": "tons",
     }
+
